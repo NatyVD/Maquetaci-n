@@ -1,0 +1,43 @@
+#barraFiltros{
+    border-radius: 20px;
+}
+
+/* Estilos para cards de los productos */
+
+.borderCard{
+    border: 1px solid #D5DDE3;
+    box-sizing: border-box;
+    border-radius: 12px;
+    padding: 8px 8px;
+}
+
+.card-group .card-body h4{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.card-group .card-body .descuento{
+    width: 62px;
+    height: 20px;
+    border-radius: 20px !important;
+}
+
+.card-group .card-body .descuento p{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 10px;
+
+}
+
+.card-group .card-body p{
+    color: #676E78;
+    margin: 3px;
+    font-size: 13px;
+}
+
+/* Estilos para cards de los productos */
